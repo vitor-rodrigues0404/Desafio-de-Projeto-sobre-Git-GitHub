@@ -2,7 +2,12 @@ Git init -> cria um repositório no PC
 Git add/rm <file> -> adiciona/remove um arquivo no repositório
 Git commit <comentário> -> 'fecha' o repositório pra poder mandar
 Git remote add origin <URL> -> determina a url na qual será enviado o repositório
-Git push/pull -> manda/pega pro/do github
+Git remote add origin <URL>-> relaciona o repositório local com o do github
+git branch -m main -> define que vai ser posto na main
+git push -u origin main -> manda/pega pro/do github
+git pull -> pega do hub e traz pro local
+
+
 
 /////////////////
 Git status -> vê a situação do repositório
