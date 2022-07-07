@@ -1,0 +1,13 @@
+Git init -> cria um repositório no PC
+Git add/rm <file> -> adiciona/remove um arquivo no repositório
+Git commit <comentário> -> 'fecha' o repositório pra poder mandar
+Git remote add origin <URL> -> determina a url na qual será enviado o repositório
+Git push/pull -> manda/pega pro/do github
+
+/////////////////
+Git status -> vê a situação do repositório
+ls -> lista os arquivos da pasta
+clear -> limpa o console
+
+Git: https://git-scm.com/downloads
+
